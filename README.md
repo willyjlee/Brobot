@@ -4,7 +4,7 @@
 * Currently trained on Cornell Movie Dialog corpus (movie conversations dataset)
 * Here's an example of it at work (kind of)!
 
-![Screenshot](screenshot.png)
+<img src="screenshot.png" width="400"/>
 
 ## Possible improvements:
 * Improve seq2seq model (attention, multi-RNN, bidirectional)
